@@ -10,7 +10,7 @@
    Aplicación para consultar letras de canciones
     <br />
     <br />
-    <a href="https://apiweatherapp-jc.netlify.app/">View Demo</a>
+    <a href="https://apilyricsapp-jc.netlify.app/">View Demo</a>
   </p>
 </p>
 
